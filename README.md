@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MedJelidi
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning web and mobile development
+- 💞️ I’m looking to collaborate on any project
+- 📫 mohammedjelidi05@gmail.com
